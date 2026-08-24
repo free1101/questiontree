@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Vite-5-646cff?logo=vite" alt="vite" />
   <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=nodedotjs" alt="node" />
   <a href="https://github.com/free1101/questiontree/issues"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="prs" /></a>
+  <a href="https://github.com/free1101/questiontree/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/Read%20in-English-blue" alt="English" /></a>
 </p>
 
 ---
