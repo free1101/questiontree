@@ -1,8 +1,30 @@
 {
   "name": "questiontree",
-  "private": true,
-  "version": "0.1.0",
-  "description": "知识树 - 树形 AI 对话学习工具",
+  "version": "1.0.0",
+  "description": "知识树 - 树形 AI 对话学习工具：把直线聊天变成树形知识图谱，AI 自动提炼分支摘要，越学越深",
+  "keywords": [
+    "knowledge-tree",
+    "ai",
+    "llm",
+    "chat",
+    "learning",
+    "study",
+    "deepseek",
+    "volcengine",
+    "ark",
+    "react",
+    "typescript",
+    "vite",
+    "express",
+    "sqlite"
+  ],
+  "license": "MIT",
+  "author": "Lena",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/free1101/questiontree.git"
+  },
+  "homepage": "https://github.com/free1101/questiontree",
   "type": "module",
   "scripts": {
     "dev": "concurrently -k -n server,client -c blue,green \"node --watch server/index.js\" \"vite\"",
